@@ -22,8 +22,7 @@ The repositories here are mirrors; releases are signed with signify.
 
 ## Contributions
 
-To the web server [Hiawatha](https://hiawatha.leisink.net/), see its
-[changelog](https://hiawatha.leisink.net/changelog):
+To the web server [Hiawatha](https://hiawatha.leisink.net/):
 
 - sharded HTTP/2 event loops (H2EventLoops), bans of ChallengeClient over
   HTTP/2 and the fix for truncated large HTTP/2 downloads (12.4)
