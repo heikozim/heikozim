@@ -33,7 +33,8 @@ To the web server [Hiawatha](https://hiawatha.leisink.net/):
 
 ## Other
 
-- [Inga](https://github.com/heikozim/dart-inga), an HTTP header and
+- [Inga](https://github.com/heikozim/dart-inga) (Inspect Network, Gateways,
+  Addresses), an HTTP header and
   Cloudflare inspector for Firefox and Chrome, in Dart, on
   [webext](https://github.com/heikozim/dart-webext)
 
