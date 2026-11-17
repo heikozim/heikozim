@@ -17,6 +17,7 @@ on it.  Website: https://hilde-lang.org/
 | [RAMBO](https://github.com/heikozim/hilde-rambo) | Rights, Accounts, Multi-factor, Bearer tokens & OAuth: an OpenID provider with passkeys, written in Hilde on Wolly |
 | [MIRCO](https://github.com/heikozim/hilde-mirco) | a science kit in Hilde: Matrices, Interpolation, Random numbers, Calculus, Optimization |
 | [ROXIE](https://github.com/heikozim/hilde-roxie) | Ranked Objects eXtended Index Engine: a log collector written in Hilde on Wolly |
+| [Canela](https://github.com/heikozim/hilde-canela) | Clean And Native Editor for Live Authoring: a live Markdown and HTML editor written in Hilde on Wolly |
 
 The repositories here are mirrors; releases are signed with signify.
 
