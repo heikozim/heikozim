@@ -20,6 +20,18 @@ on it.  Website: https://hilde-lang.org/
 
 The repositories here are mirrors; releases are signed with signify.
 
+## Contributions
+
+To the web server [Hiawatha](https://hiawatha.leisink.net/), see its
+[changelog](https://hiawatha.leisink.net/changelog):
+
+- sharded HTTP/2 event loops (H2EventLoops), bans of ChallengeClient over
+  HTTP/2 and the fix for truncated large HTTP/2 downloads (12.4)
+- HTTP/2 via nghttp2 (12.1)
+- the OS sandbox (12.0)
+- the update to mbed TLS 4.0.0, and strcpy()/sprintf() replaced by
+  strlcpy()/snprintf() (12.0)
+
 ## Other
 
 - [Inga](https://github.com/heikozim/dart-inga), an HTTP header and
